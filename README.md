@@ -1,2 +1,2 @@
 # Authentication-with-ReactJS
-Authentication with JWT using React, NodeJS, SQLite, Express, bcrypt.
+React builded website with JWT authentication using NodeJS, SQLite database, Express and bcrypt for password hashing.
