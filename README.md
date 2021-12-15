@@ -1,2 +1,2 @@
 # Authentication-with-ReactJS
-Authentication with JWT using React, NodeJS and SQLite
+Authentication with JWT using React, NodeJS, SQLite, Express, bcrypt.
