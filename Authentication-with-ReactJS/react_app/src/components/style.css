@@ -1,0 +1,16 @@
+.btn1 {
+    background-color: #008CBA;
+    width:16ch;
+    border: none;
+    color: white;
+    padding: 12px 16px;
+    text-align: center;
+    text-decoration: none;
+    display: inline-block;
+    font-size: calc(1px + 2vmin);
+    margin: 8px 12px;
+    cursor: pointer;
+  }
+  .cand {
+    font-size: calc(1px + 1.8vmin);
+  }
